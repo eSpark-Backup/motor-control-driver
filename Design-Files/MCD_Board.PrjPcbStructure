@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Battery_Charging_Sheet.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Battery_Charging_Sheet.SchDoc|FileName=Connector_Sheet.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Battery_Charging_Sheet.SchDoc|FileName=Controller_Sheet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Battery_Charging_Sheet.SchDoc|FileName=Motor_Driver_Sheet.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Battery_Charging_Sheet.SchDoc|FileName=Power_Sheet.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Battery_Charging_Sheet.SchDoc|FileName=Top_Sheet.SchDoc|SheetNumber=1
