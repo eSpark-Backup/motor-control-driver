@@ -1,6 +1,6 @@
-Record=TopLevelDocument|FileName=Battery_Charging_Sheet.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Battery_Charging_Sheet.SchDoc|FileName=Connector_Sheet.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Battery_Charging_Sheet.SchDoc|FileName=Controller_Sheet.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Battery_Charging_Sheet.SchDoc|FileName=Motor_Driver_Sheet.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Battery_Charging_Sheet.SchDoc|FileName=Power_Sheet.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Battery_Charging_Sheet.SchDoc|FileName=Top_Sheet.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Top_Sheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Battery_Charging_Sheet|SchDesignator=U_Battery_Charging_Sheet|FileName=Battery_Charging_Sheet.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Battery_Charging_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Connector_Sheet|SchDesignator=U_Connector_Sheet|FileName=Connector_Sheet.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Connector_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Controller_Sheet|SchDesignator=U_Controller_Sheet|FileName=Controller_Sheet.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Controller_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Motor_Driver_Sheet|SchDesignator=U_Motor_Driver_Sheet|FileName=Motor_Driver_Sheet.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Motor_Driver_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Power_Sheet|SchDesignator=U_Power_Sheet|FileName=Power_Sheet.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
