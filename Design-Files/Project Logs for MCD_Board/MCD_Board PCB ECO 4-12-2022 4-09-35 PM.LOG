@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=L_SW1 Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW3-1
+Removed Pin From Net: NetName=L_SW2 Pin=SW3-2
+Change Component Footprint: Designator=SW1 Old Footprint=DM1-150P-1 New Footprint=DS037-00P-60
+Change Component Footprint: Designator=SW3 Old Footprint=DM1-150P-1 New Footprint=DS037-00P-60
+Change Component Comment : Designator=SW1 Old Comment=DM1-150P-1 New Comment=DS037-00P-60
+Change Component Comment : Designator=SW3 Old Comment=DM1-150P-1 New Comment=DS037-00P-60
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "DM1-150P-1"; UniqueID = "\OJRBEZOH\TMVDIVQV" ("\OJRBEZOH\TMVDIVQV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part num"; Value = "DS037-00P-60"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "DM1-150P-1"; UniqueID = "\OJRBEZOH\JEQIVKJN" ("\OJRBEZOH\JEQIVKJN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part num"; Value = "DS037-00P-60"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L_SW1 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=L_SW2 Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-2

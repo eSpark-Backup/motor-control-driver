@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Added Component: Designator=SW1(DS037-00P-60)
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part num"; Value = "DS037-00P-60"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L_SW1 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=NetR22_1 Pin=SW1-3
+Added Member To Class: ClassName=U_Controller_Sheet Member=Component SW1 DS037-00P-60

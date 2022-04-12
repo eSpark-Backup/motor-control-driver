@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=C5 Old Footprint=EEE-FK1H471AM New Footprint=RVT1H471M1213
+Change Component Footprint: Designator=L2 Old Footprint=SLF12575T-221M1R3-PF New Footprint=VLS6045EX-221M-H
+Change component parameters: Designator = "L2" ("L2"); Footprint = "SLF12575T-221M1R3-PF"; UniqueID = "\EJPQEMTS\OAQKJZMI" ("\EJPQEMTS\OAQKJZMI")
+Change component parameters (AddParameter): Name = "Category"; Value = "Fixed Inductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_power_vls6045ex-h_en.pdf?ref_disty=digikey&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_power_vls6045ex-h_en.pdf?ref_disty=digikey&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "VLS6045EX-221M-H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1500=0.25918 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "4500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "445-181445-2-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "EEE-FK1H471AM"; UniqueID = "\EJPQEMTS\ENLGXYRN" ("\EJPQEMTS\ENLGXYRN")
+Change component parameters (AddParameter): Name = "MAnufacturer"; Value = "ROQANG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part no"; Value = "RVT1H471M1213"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Controller_Sheet Member=Component SW3 DM1-150P-1
+Added Member To Class: ClassName=U_Power_Sheet Member=Component U2 MC33063ADRJR

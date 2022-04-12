@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=L_SW2 Pin=SW3-1
+Removed Pin From Net: NetName=GND Pin=SW3-2
+Removed Pin From Net: NetName=NetR23_1 Pin=SW3-3
+Removed Member From Class: ClassName=U_Controller_Sheet Member=SW3
+Added Component: Designator=SW?(DS037-00P-60)
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part num"; Value = "DS037-00P-60"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L_SW2 Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=NetR23_1 Pin=SW?-3
+Added Member To Class: ClassName=U_Controller_Sheet Member=Component SW? DS037-00P-60
