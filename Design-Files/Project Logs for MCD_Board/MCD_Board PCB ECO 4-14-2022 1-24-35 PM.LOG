@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BAT# Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=SNS# Pin=C23-2
